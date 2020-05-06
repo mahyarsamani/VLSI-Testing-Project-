@@ -1,0 +1,3 @@
+[submodule "dinocpu"]
+	path = dinocpu
+	url = https://github.com/tv-reddy/dinocpu.git
